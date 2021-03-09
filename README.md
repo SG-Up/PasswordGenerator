@@ -1,4 +1,4 @@
-# PwdGen
+# PasswordGenerator
 Password Generator
 
 A small password generator based on old 2000's keygen aesthetics. Uses RNGCryptoServiceProvider over a standard RNG generator.
