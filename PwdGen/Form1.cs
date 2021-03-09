@@ -91,7 +91,7 @@ namespace PwdGen
 
         private void checkBox1_CheckedChanged(object sender, EventArgs e)
         {
-            SoundPlayer simpleSound = new SoundPlayer(@"S:\Code\PwdGen\PwdGen\Resources\background1.wav");
+            SoundPlayer simpleSound = new SoundPlayer(PwdGen.Properties.Resources.background1);
             simpleSound.Play();
 
             if (chkMusic.Checked == true)
