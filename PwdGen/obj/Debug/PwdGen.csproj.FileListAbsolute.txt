@@ -1,0 +1,10 @@
+S:\Code\PwdGen\PwdGen\bin\Debug\PwdGen.exe.config
+S:\Code\PwdGen\PwdGen\bin\Debug\PwdGen.exe
+S:\Code\PwdGen\PwdGen\bin\Debug\PwdGen.pdb
+S:\Code\PwdGen\PwdGen\obj\Debug\PwdGen.csprojAssemblyReference.cache
+S:\Code\PwdGen\PwdGen\obj\Debug\PwdGen.Properties.Resources.resources
+S:\Code\PwdGen\PwdGen\obj\Debug\PwdGen.csproj.GenerateResource.cache
+S:\Code\PwdGen\PwdGen\obj\Debug\PwdGen.csproj.CoreCompileInputs.cache
+S:\Code\PwdGen\PwdGen\obj\Debug\PwdGen.exe
+S:\Code\PwdGen\PwdGen\obj\Debug\PwdGen.pdb
+S:\Code\PwdGen\PwdGen\obj\Debug\PwdGen.form1.resources
