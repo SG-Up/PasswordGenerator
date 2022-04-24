@@ -11,6 +11,7 @@ using System.Security.Cryptography;
 using System.Media;
 using System.Resources;
 using System.Reflection;
+using System.Threading;
 
 
 
@@ -34,8 +35,12 @@ namespace PwdGen
         }
         private void bttnGenerate_Click(object sender, EventArgs e)
         {
+            if (string.IsNullOrEmpty(txtPassLength.Text))
+            {
+                txtPass.Text = "Please enter a number between 8 and 25";
+                return;
+            }
             int passLength = Convert.ToInt32(txtPassLength.Text);
-            
 
             if (passLength < 8 || passLength > 25)
             {
@@ -81,12 +86,16 @@ namespace PwdGen
         }
         private void bttnClear_Click(object sender, EventArgs e)
         {
+           
             txtPass.Clear();
         }
 
         private void bttnCopy_Click(object sender, EventArgs e)
         {
-            Clipboard.SetText(txtPass.Text);
+            if (!string.IsNullOrEmpty(txtPass.Text))
+            {
+                Clipboard.SetText(txtPass.Text);
+            }
         }
 
         private void checkBox1_CheckedChanged(object sender, EventArgs e)

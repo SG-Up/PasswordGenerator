@@ -11,10 +11,10 @@ S:\Code\PwdGen\PwdGen\obj\Debug\PwdGen.form1.resources
 C:\Users\Home1\Documents\Visual Studio 2019\Code\PwdGen\PwdGen\bin\Debug\PwdGen.exe.config
 C:\Users\Home1\Documents\Visual Studio 2019\Code\PwdGen\PwdGen\bin\Debug\PwdGen.exe
 C:\Users\Home1\Documents\Visual Studio 2019\Code\PwdGen\PwdGen\bin\Debug\PwdGen.pdb
-C:\Users\Home1\Documents\Visual Studio 2019\Code\PwdGen\PwdGen\obj\Debug\PwdGen.csprojAssemblyReference.cache
 C:\Users\Home1\Documents\Visual Studio 2019\Code\PwdGen\PwdGen\obj\Debug\PwdGen.form1.resources
 C:\Users\Home1\Documents\Visual Studio 2019\Code\PwdGen\PwdGen\obj\Debug\PwdGen.Properties.Resources.resources
 C:\Users\Home1\Documents\Visual Studio 2019\Code\PwdGen\PwdGen\obj\Debug\PwdGen.csproj.GenerateResource.cache
 C:\Users\Home1\Documents\Visual Studio 2019\Code\PwdGen\PwdGen\obj\Debug\PwdGen.csproj.CoreCompileInputs.cache
 C:\Users\Home1\Documents\Visual Studio 2019\Code\PwdGen\PwdGen\obj\Debug\PwdGen.exe
 C:\Users\Home1\Documents\Visual Studio 2019\Code\PwdGen\PwdGen\obj\Debug\PwdGen.pdb
+C:\Users\Home1\Documents\Visual Studio 2019\Code\PwdGen\PwdGen\obj\Debug\PwdGen.csproj.AssemblyReference.cache
